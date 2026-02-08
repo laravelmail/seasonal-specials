@@ -1,0 +1,696 @@
+{
+  "body": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Laravel Mail",
+                  "color": "#000000",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {}
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Home | Page | About Us | Contact Us"
+                }
+              }
+            ],
+            "values": {}
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Ring in the New Year with Our Exclusive Holiday Collection!"
+                }
+              }
+            ],
+            "values": {}
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "..."
+                }
+              }
+            ],
+            "values": {
+              "padding": "50px 10px 0px"
+            }
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "<h1 class='v-text-align v-font-size' style='margin: 0px; color: #000000; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;'>Laravel Mail</h1>",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "padding": "20px 0px"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": " ",
+                  "style": {
+                    "font-family": "'Open Sans',sans-serif"
+                  }
+                }
+              },
+              {
+                "type": "table",
+                "values": {
+                  "cells": [
+                    {
+                      "contents": [
+                        {
+                          "type": "text",
+                          "values": {
+                            "text": " ",
+                            "style": {
+                              "font-family": "'Open Sans',sans-serif"
+                            }
+                          }
+                        },
+                        {
+                          "type": "divider",
+                          "values": {
+                            "borderColor": "#BBBBBB"
+                          }
+                        }
+                      ],
+                      "style": {
+                        "padding": "10px 0px 5px"
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Home | Page | About Us | Contact Us",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": " ",
+                  "style": {
+                    "font-family": "'Open Sans', sans-serif"
+                  }
+                }
+              },
+              {
+                "type": "table",
+                "values": {
+                  "contents": [
+                    {
+                      "type": "td",
+                      "values": {
+                        "style": {
+                          "align": "left",
+                          "padding": "5px 0px 10px",
+                          "overflowWrap": "break-word",
+                          "wordBreak": "break-word"
+                        }
+                      },
+                      "contents": [
+                        {
+                          "type": "table",
+                          "values": {
+                            "style": {
+                              "align": "center",
+                              "borderCollapse": "collapse",
+                              "tableLayout": "fixed",
+                              "borderSpacing": "0",
+                              "msoTableLspace": "0pt",
+                              "msoTableRspace": "0pt",
+                              "verticalAlign": "top",
+                              "borderTop": "1px solid #BBBBBB",
+                              "-ms-text-size-adjust": "100%",
+                              "-webkit-text-size-adjust": "100%"
+                            },
+                            "width": "100%"
+                          },
+                          "contents": [
+                            {
+                              "type": "tbody",
+                              "contents": [
+                                {
+                                  "type": "tr",
+                                  "contents": [
+                                    {
+                                      "type": "td",
+                                      "values": {
+                                        "style": {
+                                          "wordBreak": "break-word",
+                                          "borderCollapse": "collapse !important",
+                                          "verticalAlign": "top",
+                                          "fontSize": "0px",
+                                          "lineHeight": "0px",
+                                          "msoLineHeightRule": "exactly",
+                                          "-ms-text-size-adjust": "100%",
+                                          "-webkit-text-size-adjust": "100%"
+                                        }
+                                      },
+                                      "contents": [
+                                        {
+                                          "type": "span",
+                                          "values": {}
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "values": {
+              "style": {
+                "border": "0px",
+                "cellpadding": "0",
+                "cellspacing": "0",
+                "height": "0px"
+              }
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Ring in the New Year with Our Exclusive Holiday Collection!",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  },
+                  "padding": "50px 10px 0px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Discover Exciting Seasonal Sales and Special Offers!",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans', sans-serif"
+                  },
+                  "padding": "5px 91px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore Our Seasonal Specials Now",
+                  "style": "font-family:'Open Sans',sans-serif;"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 151px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "New Year",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703659934734-Comp_201.gif"
+                  },
+                  "altText": "",
+                  "width": "458.2"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px",
+              "fontFamily": "Open Sans, sans-serif"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703659934734-Comp_201.gif"
+                  },
+                  "altText": "",
+                  "width": "458.2"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px",
+              "textAlign": "center"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703659974422-Group_205.png"
+                  },
+                  "altText": "",
+                  "width": "504.6",
+                  "style": {
+                    "display": "inline-block !important",
+                    "max-width": "504.6px",
+                    "height": "auto",
+                    "float": "none",
+                    "clear": "both"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "30px 10px 81px",
+              "fontFamily": "Open Sans, sans-serif",
+              "textAlign": "left",
+              "overflowWrap": "break-word",
+              "wordBreak": "break-word"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/1703659974422-Group_205.png"
+                  },
+                  "altText": "",
+                  "width": "504.6"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X"
+                }
+              }
+            ],
+            "values": {
+              "padding": "60px 10px 10px",
+              "fontFamily": "Open Sans,sans-serif"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn",
+                  "width": "32",
+                  "height": {
+                    "unit": "px",
+                    "value": null
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "style": "-ms-interpolation-mode: bicubic;display: block !important;border: none;height: auto;max-width: 32px !important"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "UNSUBSCRIBE   |   PRIVACY POLICY   |   WEB",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "\n",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore captivating seasonal discounts and exclusive deals curated just for you in the retail and food & beverage sector!",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 100px 30px",
+              "textAlign": "center",
+              "lineHeight": "170%"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "",
+                  "style": {
+                    "font-family": "'Open Sans', sans-serif"
+                  }
+                }
+              },
+              {
+                "type": "table",
+                "values": {}
+              }
+            ],
+            "style": {
+              "align": "left",
+              "padding": "0px",
+              "overflow-wrap": "break-word",
+              "word-break": "break-word"
+            },
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": " ",
+                  "color": ""
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      }
+    }
+  },
+  "schemaVersion": 15
+}
